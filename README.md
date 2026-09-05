@@ -4,9 +4,3 @@
 - `AI_Agent_Assignment.pdf` - Assignment about the AI agent, graphical representation, environment types, sensors, actuators and PEAS framework.
 - `Travel_Agent.py` - Python implementation of the Travel Agent.
 - `Travel_Agent_Colab.ipynb` - Google Colab/Jupyter notebook version of the code.
-
-## How to run
-Open `Travel_Agent_Colab.ipynb` in Google Colab and run the code cell.
-
-Repository name format requested by instructor:
-`YourName_lab1`
